@@ -67,3 +67,26 @@ ul {
     margin: auto;
     display: flex;
 }
+
+.signup {
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+    background-color: #3882F6;
+    border: none;
+    color: #E5E7EB;
+    border-radius: 5px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.hero {
+    color: #E5E7EB;
+}
