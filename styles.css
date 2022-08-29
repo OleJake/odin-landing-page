@@ -212,3 +212,14 @@ h4 {
     font-weight: bold;
     margin-right: 100px;
 }
+
+footer {
+    background-color: #1F2937;
+    padding: 2em;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
