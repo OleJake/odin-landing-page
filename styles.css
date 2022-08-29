@@ -90,9 +90,6 @@ a {
     color: #E5E7EB;
 }
 
-.card {
-
-}
 
 .square {
     border: solid #3882F6 3px;
@@ -103,10 +100,6 @@ a {
     
 }
 
-p {
-
-    
-}
 
 .card-container {
     display: flex;
@@ -119,9 +112,6 @@ display: flex;
 flex-direction: column;
 }
 
-.text {
-
-}
 
 h1 {
     text-align: center;
@@ -136,3 +126,35 @@ html, body {
     padding: 0;
   }
   
+
+.quote-box {
+    background-color: #E5E7EB;
+    height: 400px;    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.thor {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: end;
+}
+
+h3 {
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#thor-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 200px;
+    
+
+}
