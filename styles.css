@@ -37,8 +37,7 @@ ul {
     justify-content: center;
     align-items: center;
     padding: 7em 0;
-    gap: 2em;
-    
+    gap: 2em;    
 }
 
 .image {
@@ -92,7 +91,7 @@ a {
 }
 
 .card {
-    
+
 }
 
 .square {
@@ -112,8 +111,8 @@ p {
 .card-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    margin: 100px;
+    justify-content: center;
+    gap: 60px;
 }
 main {
 display: flex;
@@ -124,10 +123,16 @@ flex-direction: column;
 
 }
 
-h2 {
+h1 {
     text-align: center;
 }
 
 .text {
     text-align: center;
 }
+
+html, body {
+    margin: 0; 
+    padding: 0;
+  }
+  
