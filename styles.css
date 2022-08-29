@@ -158,3 +158,57 @@ h3 {
     
 
 }
+
+.last-div {
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-box-container {
+    background-color: #3882F6;
+    height: 40%;
+    width: 70%;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    width: 80%; 
+    margin-left: 90px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.right {
+   
+}
+
+h4 {
+   color: white; 
+   font-size: 24px;
+   margin: 0;
+}
+
+.blue-p {
+    color: white;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.sign-up {
+    background-color: #3882F6;
+    border: white solid 3px;
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 100px;
+}
