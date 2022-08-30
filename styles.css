@@ -16,10 +16,9 @@ header {
 }
 
 .logo {
-color: #F9FAF8;
-font-size: 24px;
-font-weight: bold;
 margin-right: 500px;
+height: 75px;
+width: 75px;
 }
 
 ul {
@@ -49,6 +48,11 @@ ul {
     width: 450px;
     height: 200px;
     
+}
+
+.header-coffee {
+    width: 450px;
+    height: 300px;
 }
 
 .subtext {
@@ -225,3 +229,4 @@ footer {
     color: white;
     font-size: 18px;
 }
+
