@@ -4,7 +4,8 @@ body {
 
 
 header {
-    background-color: #1F2937;
+    background-color: SlateGray;
+    ;
     padding: 1em 13em;
     
 }
@@ -80,7 +81,7 @@ ul {
     padding-right: 20px;
     padding-left: 20px;
     font-size: 15px;
-    background-color: #3882F6;
+    background-color: DimGrey;
     border: none;
     color: #E5E7EB;
     border-radius: 5px;
@@ -98,7 +99,7 @@ a {
 
 
 .square {
-    border: solid #3882F6 3px;
+    border: solid DimGrey 3px;
     border-radius: 20px;
     padding: 10px;
     height: 130px;
@@ -173,7 +174,7 @@ h3 {
 }
 
 .bottom-box-container {
-    background-color: #3882F6;
+    background-color: DimGrey;
     height: 40%;
     width: 70%;
     border-radius: 8px;
@@ -208,7 +209,7 @@ h4 {
 }
 
 .sign-up {
-    background-color: #3882F6;
+    background-color: DimGrey;
     border: white solid 3px;
     border-radius: 10px;
     width: 120px;
@@ -220,7 +221,7 @@ h4 {
 }
 
 footer {
-    background-color: #1F2937;
+    background-color: SlateGray;
     padding: 2em;
 }
 
