@@ -19,6 +19,7 @@ header {
 color: #F9FAF8;
 font-size: 24px;
 font-weight: bold;
+margin-right: 500px;
 }
 
 ul {
@@ -52,7 +53,8 @@ ul {
 
 .subtext {
     font-size: 18px;
-    color: #E5E7EB;    
+    color: #E5E7EB;
+    margin: 0;    
 }
 
 .left {
@@ -63,8 +65,8 @@ ul {
 }
 
 .hero {
-    margin: auto;
-    display: flex;
+    margin: 0;
+    text-align-last: left;
 }
 
 .signup {
